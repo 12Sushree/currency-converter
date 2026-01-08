@@ -10,6 +10,20 @@ A simple currency converter application that allows users to convert amounts bet
 - Support for multiple currencies
 - Error handling for invalid inputs and network issues
 
+## Technologies Used
+
+- JavaScript
+- HTML
+- CSS
+- Fetch API for real-time exchange rates
+- Vite for development server
+- React for building the user interface
+- Tailwind CSS for styling
+
+## Live Demo
+
+You can access the live demo of the currency converter [here](https://currency-converter-sepia-kappa.vercel.app/).
+
 ## Installation
 
 1. Clone the repository:
@@ -36,13 +50,3 @@ A simple currency converter application that allows users to convert amounts bet
 2. Select the target currency from the dropdown menu.
 3. Enter the amount you want to convert.
 4. Click the "Convert" button to see the converted amount.
-
-## Technologies Used
-
-- JavaScript
-- HTML
-- CSS
-- Fetch API for real-time exchange rates
-- Vite for development server
-- React for building the user interface
-- Tailwind CSS for styling
