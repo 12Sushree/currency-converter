@@ -14,7 +14,6 @@ A simple currency converter application that allows users to convert amounts bet
 
 - JavaScript
 - HTML
-- CSS
 - Fetch API for real-time exchange rates
 - Vite for development server
 - React for building the user interface
